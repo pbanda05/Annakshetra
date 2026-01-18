@@ -50,7 +50,3 @@ Annakshetra is being designed to support scalable deployment in the future:
 
 ---
 
-## 📂 Project Structure (Example)
-
-> Adjust this to match your repository.
-
